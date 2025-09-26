@@ -1,4 +1,4 @@
-Lab 1 -Ionic Framework Setup and First App Development (MADD)
+# Lab 1 -Ionic Framework Setup and First App Development (MADD)
 
 ## Assignment details:
 
@@ -8,9 +8,6 @@ Teacher: Kalpana Rathod
 
 ## Index
 
-# 📘 Lab 1 – Introduction to Mobile App Development
-
-## 📂 Index
 - [Lab Report](./report/REPORT.md)  
 - [Screenshots](./screenshots)  
   - [Git](./screenshots/git)  
@@ -18,14 +15,6 @@ Teacher: Kalpana Rathod
   - [Java JDK](./screenshots/java_jdk)  
   - [Node.js](./screenshots/node.js)  
   - [Visual Studio Code](./screenshots/visual_studio_code)  
-
-- [Lab Report](report/REPORT.md) 
-- Screenshots:
-  - [Git](screenshots/git) 
-  - [Ionic](screenshots/ionic) 
-  - [Java JDK](screenshots/java_jdk) 
-  - [Node.js](screenshots/node.js) 
-  - [Visual Studio Code](screenshots/visual_studio_code) 
 
 
 ## Description
@@ -42,7 +31,7 @@ After completing the installation processes, students were expected to create th
 
 Second part of the assignment was writing a detailed report that includes step by step explanations of the installation processes, accompanied by screenshots, as well as a personal learning reflection.
 
-## Repository Structure
+## Folder Structure
 
 This folder contains two main sub-folders:
  - report
@@ -51,3 +40,7 @@ This folder contains two main sub-folders:
 Report folder contains lab report, with written step by step description of installation/update processes as well as learning reflections from this assignment. 
 
 Screenshot folder contains sub-folders that store screenshots related to installation or setup processes of different tools (see Index).
+
+## Note
+
+The best way to inspect this Lab is to read the report first. The installation processes are explained in detail there, and you will find links to screenshots under textual instructions. 
