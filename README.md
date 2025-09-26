@@ -6,5 +6,5 @@ Each lab is located in the separate folder, which contains report that explains 
 
 ## Index
 
-- [Lab 1](./Lab01)
-- [Lab 2](./Lab02)
+- [Lab 1](./lab1)
+- [Lab 2](./lab2)
