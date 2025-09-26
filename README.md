@@ -4,7 +4,7 @@ This repository contains my lab works for the Introduction to Mobile App Design 
 
 Each lab is located in the separate folder, which contains report that explains what are the learning objectives for thst lab. as well as assets, such as screenshots and other. 
 
-## Repository Structure
+## Index
 
-Lab01/ – Setting Up Ionic Framework and Developing First App
-Lab02/ – App Navigation and Git
+- [Lab 1](./Lab01)
+- [Lab 2](./Lab02)
